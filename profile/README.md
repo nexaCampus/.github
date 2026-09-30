@@ -13,6 +13,7 @@
 ---
 
 ## 🏗️ System Architecture
+```
 
                               nexaCampus Organization
                                          │
@@ -37,7 +38,7 @@
          Supabase Cloud                      Mistral AI
    PostgreSQL 15 (RLS Enforced)         `mistral-small-latest`
    Realtime Engine & Drive S3           Academic Copilot
-
+```
 ---
 
 ## 📦 Repository Matrix
